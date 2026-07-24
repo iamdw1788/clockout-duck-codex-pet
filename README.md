@@ -4,7 +4,11 @@
 
 ### Sleepy face. Tiny tie. Work still gets done.
 
-<img src="assets/clockout-duck-idle.gif" width="192" alt="Clockout Duck, an animated white office duck desktop pet for Codex">
+<img src="assets/preview.png" width="900" alt="Clockout Duck, a sleepy white office duck desktop pet for Codex">
+
+<br>
+
+<img src="assets/clockout-duck-idle.gif" width="160" alt="Clockout Duck idle animation">
 
 [![Codex Pet](https://img.shields.io/badge/Codex-Pet-00B476?style=flat-square)](https://github.com/topics/codex-pet)
 [![Windows](https://img.shields.io/badge/Windows-PowerShell-0078D4?style=flat-square)](#quick-install)
@@ -275,4 +279,3 @@ Please do not sell or commercially redistribute the character assets.
 
 If this sleepy little coworker made your coding day better, please leave a
 star. It helps more Codex users find him.
-
