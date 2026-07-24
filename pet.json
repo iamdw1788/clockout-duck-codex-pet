@@ -1,0 +1,7 @@
+{
+  "id": "clockout-duck",
+  "displayName": "Clockout Duck",
+  "description": "A sleepy office duck who wants to go home but somehow gets every job done.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.webp"
+}
